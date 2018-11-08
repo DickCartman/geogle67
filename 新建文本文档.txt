@@ -1,1 +1,2 @@
 private string name
+private string color
